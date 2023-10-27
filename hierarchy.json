@@ -1,0 +1,75 @@
+{
+  "Clothing, Shoes & Accessories":{
+    "Women": [
+      "Clothing",
+      "Shoes",
+      "Bags and handbags",
+      "Jewellery",
+      "Accessories"
+    ],
+    "Men": [
+      "Clothing",
+      "Shoes",
+      "Bags and handbags",
+      "Jewellery",
+      "Accessories"
+    ],
+    "Kids": [
+      "Girls",
+      "Boys",
+      "Unisex",
+      "Backpacks and bags"
+    ],
+    "Baby":[
+      "Clothing",
+      "Shoes",
+      "Accessories"
+    ]
+  },
+  "Electronics":{
+    "Phone, Smart Watches & Accessories":[
+      "amz - Electronics - Mobile phones and communication | Wearable Technology",
+      "ebay - Electronics - Phones, smart Watches & Accessories "
+    ],
+    "Computer, Tablets & Networking": [
+      "amz - Electronics - Tablets | Computers",
+      "ebay - Electronics - Computers, Tablets & Network Hardware"
+
+    ],
+    "Video Games & Consoles": [
+
+    ],
+    "Electronics": [
+
+    ],
+    "Home Entertainment":[
+
+    ],
+  },
+  "Books, Music & Movies": {
+    "Music Instruments":[
+      "Guitars & Basses",
+      "Pro Audio Equipment",
+      "Pianos, Keyboards & Organs",
+      "Percussion Instruments & Drums",
+      "String Instruments",
+      "Wind & Woodwind Instruments",
+      "Microphones",
+      "Recording",
+      "Accessories"
+    ],
+    "Books": [
+      "Fiction & Non-Fiction Books",
+      "Comic Books, Manga & Memorabilia",
+      "Magazines",
+      "Antiquarian & Collectable Books",
+      "Textbooks, Educational & Reference Books"
+    ],
+    "Music": [
+      "Vinyl Records",
+      "Music CDs",
+      "Music Memorabilia",
+      "Music Cassettes"
+    ],
+  }
+}

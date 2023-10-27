@@ -1,0 +1,218 @@
+[
+  {
+  "model": "webbot.product",
+  "pk": 1,
+  "fields": {
+    "name": "iPhone 13",
+    "brand": "Apple",
+    "description": "6.1-inch Super Retina XDR display\r\nCinematic mode adds shallow depth of field and shifts focus automatically in your videos\r\nAdvanced dual-camera system with 12MP Wide and Ultra Wide cameras; Photographic Styles, Smart HDR 4, Night mode, 4K Dolby Vision HDR recording\r\n12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording\r\nA15 Bionic chip for lightning-fast performance\r\nUp to 19 hours of video playback\r\nDurable design with Ceramic Shield\r\nIndustry-leading IP68 water resistance\r\n5G for superfast downloads and high-quality streaming\r\nSupports MagSafe accessories for easy attachment and faster wireless charging (sold separately)",
+    "category": "Electronics Phone"
+  }
+},
+{
+  "model": "webbot.product",
+  "pk": 2,
+  "fields": {
+    "name": "Samsung Galaxy A54",
+    "category": "Electronics Phone",
+    "brand": "Samsung",
+    "description": "Awesome Camera - Capture crisp shots every time with the triple-lens floating camera design, allowing you to switch between a suite of lenses, including a wide 50 mega pixel and ultra-wide 12 mega pixel main camera to shoot magnificent landscapes an intense 5 mega pixel macro lens for the tiniest details plus the impressive font-facing camera to snap studio quality selfies. The photos don’t have to end when the night starts because the optical image stabilisation and bigger sensor will capture all your moves.\r\nAwesome Infinity-O Display - Enjoy a 6.4 inch Full HD+ screen** equipped with 120 hertz refresh rate, perfect for oh-so smooth scrolling, gaming and multi-tasking without interruption. Experience everything you love and see it in vibrant true-to-life colours with the impressive super AMOLED display technology that improves outdoor visibility.\r\nBattery - Up to 2 Day Battery Life*** on the Galaxy A54 5G so you can freely connect, stream and share. Powerfully supported by 25W Super-Fast Charging so you won’t ever miss out.\r\nPowerful performance - Galaxy A54 5G combines Octa-core processing power with 6GB of RAM built to enable lasting power and performance to help maximise speed, gaming, camera and so much more. Get access to seriously fast download and upload speeds with 5G technology. *\r\nWallet - Secure. Simple. Smart. Store payment cards, loyalty cards, digital IDs, passwords and even digital keys to your house all in one place. Easy to use and secured by your biometrics, it's all you need to leave home.\r\nSecurity - Privacy is everything, so we built in high-tech biometric authentication through the on-screen fingerprint scanner and your sensitive information is protected by Samsung Knox security the moment it’s turned on.\r\nStorage - Forget deleting, Galaxy A54 5G has spacious storage of up to 128GB. Plus experience the added option for expandable 1TB microSD support so you can focus on the now. ****\r\nIn-box items - Handset, data cable, ejection pin and quick start guide\r\n*Available on selected plans on eligible 5G networks. Current availability is limited to major capital city CBDs and other select high traffic areas. Actual speeds achievable will vary depending on service availability and other factors."
+  }
+},
+{
+  "model": "webbot.product",
+  "pk": 3,
+  "fields": {
+    "name": "Apple Watch Series 8",
+    "category": "Electronics Phone",
+    "brand": "Apple",
+    "description": "WHY APPLE WATCH SERIES 8 — Your essential companion for a healthy life is now even more powerful. Advanced sensors provide insights to help you better understand your health. New safety features can get you help when you need it. The bright, Always-On Retina display is easy to read, even when your wrist is down.\r\nEASILY CUSTOMIZABLE — Available in a range of sizes and materials, with dozens of bands to choose from and watch faces with complications tailored to whatever you’re into.\r\nINNOVATIVE SAFETY FEATURES — Crash Detection and Fall Detection can automatically connect you with emergency services in the event of a severe car crash or a hard fall. And Emergency SOS provides urgent assistance with the press of a button.\r\nADVANCED HEALTH FEATURES — Temperature sensing is a breakthrough feature that provides deep insights into women’s health. Keep an eye on your blood oxygen. Take an ECG anytime. Get notifications if you have an irregular rhythm. And see how much time you spent in REM, Core, or Deep sleep with Sleep Stages.\r\nSIMPLY COMPATIBLE — It works seamlessly with your Apple devices and services. Unlock your Mac automatically. Find your devices with a tap. Pay and send money with Apple Pay. Apple Watch requires an iPhone 8 or later with the latest iOS version.\r\nINCREDIBLE DURABILITY — Tougher than tough. It’s crack resistant, IP6X-certified dust resistant, and swimproof with WR50 water resistance.\r\nA POWERFUL FITNESS PARTNER — The enhanced Workout app gives you new ways to train, and advanced metrics for more information about your workout performance. And Apple Watch comes with three months of Apple Fitness+ free.\r\nAPPS ON YOUR WRIST — With access to tens of thousands of apps on the App Store right on your wrist, Apple Watch is the perfect personal device for whatever you love to do.\r\nSTAY CONNECTED — Send a text, make a call, listen to music and podcasts, use Siri, and get notifications on the go. Apple Watch Series 8 (GPS) works with your iPhone or Wi-Fi to keep you connected."
+  }
+},
+{
+  "model": "webbot.product",
+  "pk": 4,
+  "fields": {
+    "name": "JBL FLIP 6 Portable Waterproof Speaker",
+    "category": "Electronics Home entertainment",
+    "brand": "JBL",
+    "description": "Eco-friendly packaging JBL is committed to a more sustainable, earth-friendly packaging. The Flip 6 is packaged in a recyclable paper-based box, including the inner tray. The plastic hangtag is over 90% recycled and the exterior is printed with soy ink\r\nIP67 waterproof and dustproof To the pool. To the park. JBL Flip 6 is IP67 waterproof and dustproof, so you can bring your speaker anywhere\r\n13 Hours of Playtime Don’t sweat the small stuff like charging your battery. JBL Flip 6 gives you up to 12 hours of playtime on a single charge\r\nBold design Bold audio meets bold design. Big-sounding yet easy to carry, the design fits any personal style. Stand it vertical or horizontal and choose from a variety of vibrant colors\r\nCrank up the fun with PartyBoost PartyBoost allows you to pair two JBL PartyBoost-compatible speakers together for stereo sound or link multiple JBL PartyBoost-compatible speakers to truly pump up your party"
+  }
+},
+{
+  "model": "webbot.product",
+  "pk": 5,
+  "fields": {
+    "name": "Apple 2021 iPad Mini",
+    "category": "Electronics Phone",
+    "brand": "Apple",
+    "description": "8.3-inch Liquid Retina display with True Tone and wide colour\r\nA15 Bionic chip with Neural Engine\r\nTouch ID for secure authentication and Apple Pay\r\n12MP Wide back camera, 12MP Ultra Wide front camera with Centre Stage\r\nAvailable in purple, starlight, pink and space grey\r\nLandscape stereo speakers\r\nStay connected with ultrafast Wi-Fi 6\r\nUp to 10 hours of battery life\r\nUSB-C connector for charging and accessories\r\nWorks with Apple Pencil (2nd generation)"
+  }
+},
+{
+  "model": "webbot.product",
+  "pk": 6,
+  "fields": {
+    "name": "Samsung Galaxy Tab A8",
+    "category": "Electronics Phone",
+    "brand": "Samsung",
+    "description": "Stylish, slimline metal design: With stunning symmetry and slimline design, Tab A8 offers unforgettable immersive experiences within its sophisticated metal body.Available in Mystic Grey.\r\nCinematic 10.5” display: Bring your content to life just like the movies, with a cinematic 10.5\" display1 and quad speakers pumping out Dolby Atmos surround sound.\r\nLightning-fast processor: Thanks to a fast Octa-core processor and 4GB RAM, your content or games load quickly and run smoothly.\r\nLong-lasting battery: A long-lasting battery designed to power you through the day. When you're running low, a quick charge is all it takes to get you back to 100%"
+  }
+},
+{
+  "model": "webbot.review",
+  "pk": 1,
+  "fields": {
+    "product": 1,
+    "user": "John Doe",
+    "date": "2023-09-01",
+    "platform": "Amazon",
+    "title": "Good",
+    "review": "I didn't want to get a new iphone as my iphone 6+ was working fine except that it would not accept any of the latest iOS updates and that meant a lot of the apps were very slow or didn't work at all.\r\nI took the plunge and got the new phone and I must say I'm very happy with it. The camera take much better photos than my iphone 6+ however I think the quality of the iphone 6+ photos had deteriorated dramatically over the years (more built-in obselescence??) The new phone is much faster. The size is good.",
+    "rating": 5.0
+  }
+},
+{
+  "model": "webbot.review",
+  "pk": 2,
+  "fields": {
+    "product": 1,
+    "user": "Alex A.",
+    "date": "2023-09-10",
+    "platform": "eBay",
+    "title": "Bad",
+    "review": "My first response is total disappointment as it is totally flat and there is no adapter to allow charging. As this has always been included I didn’t think I needed it and it is not clearly stated. Cheap strategy from Apple. Make sure you include a charging adapter.",
+    "rating": 1.0
+  }
+},
+{
+  "model": "webbot.review",
+  "pk": 3,
+  "fields": {
+    "product": 1,
+    "user": "Anon 1",
+    "date": "2023-06-14",
+    "platform": "Amazon",
+    "title": "OK",
+    "review": "Features are not as good as model phone before.",
+    "rating": 3.0
+  }
+},
+{
+  "model": "webbot.review",
+  "pk": 4,
+  "fields": {
+    "product": 2,
+    "user": "Anon 2",
+    "date": "2023-09-21",
+    "platform": "eBay",
+    "title": "No eSim",
+    "review": "So disappointed.\r\nI called Samsung and said it doesn't support esim card.",
+    "rating": 1.0
+  }
+},
+{
+  "model": "webbot.review",
+  "pk": 5,
+  "fields": {
+    "product": 2,
+    "user": "Jane C.",
+    "date": "2023-03-30",
+    "platform": "eBay",
+    "title": "Very fluid operation",
+    "review": "I did watch a couple if reviews online. Can’t go wrong with this one. Display is real nice, fluid operation and android updated. I did delete Samsung crap from it. Camera results are good too. I will recommend this device.",
+    "rating": 4.5
+  }
+},
+{
+  "model": "webbot.review",
+  "pk": 6,
+  "fields": {
+    "product": 3,
+    "user": "Anna J.",
+    "date": "2023-09-21",
+    "platform": "Amazon",
+    "title": "Understated beauty",
+    "review": "I bought the Apple Watch Series 8 (GPS + Cellular 45mm) Smart Watch to replace the smart watch I was using. I am simply in love with it and cannot understand why I hadn’t bought an Apple Watch before, I am most definitely a convert now. I bought the gold Milanese wrist band to go with it and absolutely love the ease of taking my watch on and off.\r\nThe fitness app is like someone nagging you to get up and move but in a good way. I could write lots about this watch (all good) but don’t have time so i will just like to say ‘no matter who you are you need an Apple watch’. Most definitely an A+ from me.",
+    "rating": 5.0
+  }
+},
+{
+  "model": "webbot.review",
+  "pk": 7,
+  "fields": {
+    "product": 4,
+    "user": "Caitlin",
+    "date": "2023-04-12",
+    "platform": "eBay",
+    "title": "Reasonable Sound, inconvenient design",
+    "review": "Praise: The sound is reasonably good. The App is a nice touch and helpful in tweaking the sound.\r\nGripes : 1. The Squad / Green colour I wanted, is available only in certain countries. 2. The control buttons are rather inconveniently placed, out of direct sight, making one operate them by touch / feel or by guessing. 3. The buttons are an exact match ofthe body Colour and are difficult to see. These would have been better in a contrasting colour. 4. Connection issues: when I am playing music from my Tab S7 through the Flip 6 and try to connect my cell phone too, the tablet is paused and has to be manually restarted. Both devices Cannot connect to the speaker together.",
+    "rating": 4.0
+  }
+},
+{
+  "model": "webbot.review",
+  "pk": 8,
+  "fields": {
+    "product": 4,
+    "user": "Karen A.",
+    "date": "2023-09-16",
+    "platform": "Amazon",
+    "title": "I love it",
+    "review": "Sounds so good",
+    "rating": 4.0
+  }
+},
+{
+  "model": "webbot.review",
+  "pk": 9,
+  "fields": {
+    "product": 5,
+    "user": "Ella O.",
+    "date": "2022-10-12",
+    "platform": "eBay",
+    "title": "iPads have a good reputation but...",
+    "review": "The iPad Mini 6th gen is an expensive device. My wife bought this for use with various reading Apps she has.\r\n\r\nComplaints -\r\n\r\n1. The screen quality is worse than her 6 year old Samsung Galaxy Tab S2 - that has an OLED screen at higher DPI. It has less contrast, muted colors and most noticeably terrible viewing angles. If you roll the tablet around while looking at it there is a clear hot-spot of brightness that shows immediately you tilt the tablet. Pretty terrible. To top it off - bad jelly scrolling.\r\n\r\n2. The iOS operating system is infuriatingly inflexible. Don't expect to be arranging your icons as you see fit.\r\n\r\n3. A few headline Apps like Instagram do not display correctly on this tablet. They are shrunken down and don't fill the screen correctly. Designed for iPhone only.\r\n\r\n4. Incredibly expensive. Inc the pencil\r\n\r\n... Apple is fortunate the Android competition has largely given up. If you take your time and really dig, you will find far superior alternatives (Screen, Flexibility etc) at a lower cost.",
+    "rating": 2.0
+  }
+},
+{
+  "model": "webbot.review",
+  "pk": 10,
+  "fields": {
+    "product": 1,
+    "user": "Xavier",
+    "date": "2023-01-26",
+    "platform": "Amazon",
+    "title": "Amazing!!!!",
+    "review": "Oh my godddddddd this phone is so good I went from the 8 - 13 and it is a big difference Face ID is my best friend Quality is good and it is overall a good phone btw the case I got is a little to big but that is ok I designed the phone to a green theme and it look nice and I love it now I can take good quality pics of my cats comes in a normal Amazon box and the phone comes in a apple box because it’s apple it isn’t damaged or anything so that’s good.",
+    "rating": 5.0
+  }
+},
+{
+  "model": "webbot.review",
+  "pk": 11,
+  "fields": {
+    "product": 1,
+    "user": "Anon 3",
+    "date": "2023-09-21",
+    "platform": "eBay",
+    "title": "Great Quality iPhone",
+    "review": "Easy to purchase.\r\nNext day delivery as promised.\r\nGreat quality iPhone 13.",
+    "rating": 5.0
+  }
+},
+{
+  "model": "webbot.review",
+  "pk": 12,
+  "fields": {
+    "product": 1,
+    "user": "Anon 4",
+    "date": "2023-09-02",
+    "platform": "eBay",
+    "title": "Great phone its apple duh. Fast delivery!",
+    "review": "No issues, delivered perfectly. Phone is great but i probably should've got a higher storage capacity lol. Now im just gonna have to keep syncing my photos to the cloud or my pc.",
+    "rating": 5.0
+  }
+}
+]

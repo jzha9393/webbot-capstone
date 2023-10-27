@@ -1,0 +1,792 @@
+{
+  "Clothing, Shoes & Accessories": {
+    "Women's Clothing, Shoes & Accessories": [
+      "Women's Clothing",
+      "Women's Shoes",
+      "Women's Bags & Handbags",
+      "Fashion Jewellery",
+      "Women's Accessories",
+      "Fine Jewellery",
+      "View all in Women's Clothing, Shoes & Accessories"
+    ],
+    "Men's Clothing, Shoes & Accessories": [
+      "Men's Shoes",
+      "Men's Clothing",
+      "Men's Accessories",
+      "Men's Jewellery"
+    ],
+    "Jewellery": [
+      "Fashion Jewellery",
+      "Fine Jewellery",
+      "Jewellery Care, Design & Repair",
+      "Vintage & Antique Jewellery",
+      "Travel Luggage",
+      "Men's Jewellery",
+      "View all in Jewellery"
+    ],
+    "Specialty Clothing, Shoes & Accessories": [
+      "Costumes",
+      "Vintage Clothing, Shoes & Accessories",
+      "Clothing & Shoe Care Products",
+      "Wedding Clothing, Shoes & Accessories",
+      "Dance Specialty Clothing",
+      "Uniforms",
+      "View all in Specialty Clothing, Shoes & Accessories"
+    ],
+    "Wristwatches": [ ],
+    "Kids' Clothing, Shoes & Accessories": [
+      "Girls' Clothing, Shoes & Accessories",
+      "Boy's Clothing, Shoes & Accessories",
+      "Unisex Kids",
+      "Kids' Backpacks & Bags"
+    ],
+    "Travel Accessories": [
+      "Electrical Travel Adapters",
+      "Travel Pillows",
+      "Travel Wallets",
+      "Travel Luggage Tags",
+      "Other Travel Accessories"
+    ],
+    "Travel Luggage": [
+      "Travel Suitcases",
+      "Travel Backpacks"
+    ],
+    "Baby": [
+      "Baby & Toddler Clothing",
+      "Baby Shoes",
+      "Baby Accessories"
+    ],
+    "null": [ ]
+  },
+  "Home & Garden": {
+    "Yard, Garden & Outdoor Living Products": [
+      "Outdoor Power Equipment",
+      "Plants, Seeds & Bulbs",
+      "Lawn Mowers, Parts & Accessories",
+      "Outdoor Lighting",
+      "Patio & Garden Furniture",
+      "Plant Care Supplies, Soil & Accessories",
+      "View all in Yard, Garden & Outdoor Living Products"
+    ],
+    "Home Furniture": [
+      "Tables",
+      "Sofas, Armchairs & Couches",
+      "Beds & Mattresses",
+      "Chairs",
+      "Mattresses",
+      "Cabinets & Chests",
+      "View all in Home Furniture"
+    ],
+    "Kitchen, Dining & Bar Items": [
+      "Kitchen Tools & Gadgets",
+      "Dinnerware & Serveware",
+      "Kitchen Storage & Organisation",
+      "Baking Accessories and Cake Decorating",
+      "Cutlery",
+      "Kitchen & Dining Linens",
+      "View all in Kitchen, Dining & Bar Items"
+    ],
+    "Home Appliances": [
+      "Small Kitchen Appliances",
+      "Home Heating, Cooling & Air",
+      "Vacuum Cleaner Parts",
+      "Vacuum Cleaners",
+      "Ranges & Cooking Appliances",
+      "Coffee, Tea & Espresso Makers",
+      "View all in Home Appliances"
+    ],
+    "Art & Craft Supplies": [
+      "Sewing Tools & Supplies",
+      "Yarn, Sewing & Needlecraft Supplies",
+      "Multi-Purpose Craft Supplies",
+      "Beads & Jewellery Making Supplies",
+      "Art Supplies",
+      "Fabric",
+      "View all in Art & Craft Supplies"
+    ],
+    "Tools & Workshop Equipment": [
+      "Power Tools",
+      "Home Hand Tools",
+      "Power Tool & Air Tool Accessories",
+      "Tool Boxes & Storage",
+      "Home Workshop & Storage Equipment",
+      "Home Air Tools",
+      "View all in Tools & Workshop Equipment"
+    ],
+    "Building Materials & DIY": [
+      "Electrical Supplies",
+      "Home Doors & Door Hardware",
+      "Cabinet Hardware",
+      "Garage Doors & Openers",
+      "Home Flooring & Tiles",
+      "Wallpaper, Tools & Accessories",
+      "View all in Building Materials & DIY"
+    ],
+    "Home Décor": [
+      "Decorative Posters & Prints",
+      "Decorative Clocks",
+      "Wall Stickers",
+      "Decorative Plaques & Signs",
+      "Decorative Mirrors",
+      "Decorative Sculptures & Figurines",
+      "View all in Home Décor"
+    ],
+    "Cleaning & Housekeeping": [
+      "Home Organisation & Storage Solutions",
+      "Household Laundry Supplies",
+      "General Household Supplies",
+      "Household Cleaning Tools",
+      "Household Cleaning Products"
+    ],
+    "Home Bedding": [
+      "Quilt Covers",
+      "Bedding Sheets",
+      "Blankets",
+      "Quilts, Bedspreads & Doonas",
+      "Bed Pillows",
+      "Pillow Cases",
+      "View all in Home Bedding"
+    ],
+    "Party & Special Occasion Supplies": [
+      "Party Supplies",
+      "Seasonal Decoration",
+      "Gift Wrapping & Supplies",
+      "Greeting Cards & Invitations"
+    ],
+    "Bathroom Fixtures, Accessories & Supplies": [
+      "Bathroom Supplies & Accessories",
+      "Showers, Baths & Parts",
+      "Shower & Bath Accessories",
+      "Toilets & Bidets",
+      "Bathroom Sinks & Vanities"
+    ],
+    "Home Lighting & Fans": [
+      "String Lights",
+      "Light Bulbs",
+      "Lamps",
+      "Indoor Home Night Lights",
+      "Chandeliers & Ceiling Fixtures",
+      "Ceiling Fans",
+      "View all in Home Lighting & Fans"
+    ],
+    "Pottery & Glass": [
+      "Decorative Pottery & Glassware",
+      "Decorative Cookware, Dinnerware & Serveware"
+    ],
+    "Home Security Equipment": [
+      "Smart Home & Surveillance Electronics",
+      "Home Security Safes",
+      "Home Alarm Systems",
+      "Home Smoke & Gas Detectors",
+      "Padlocks"
+    ],
+    "Smart Home & Surveillance Electronics": [
+      "Home Surveillance Systems",
+      "Smart Speakers, Hubs & Accessories"
+    ],
+    "Travel Accessories": [
+      "Electrical Travel Adapters",
+      "Travel Pillows",
+      "Travel Wallets",
+      "Travel Luggage Tags",
+      "Other Travel Accessories"
+    ],
+    "Window Curtains, Blinds & Accessories": [
+      "Window Curtains & Drapes",
+      "Window Film",
+      "Window Blinds & Shades",
+      "Curtain Poles & Accessories"
+    ],
+    "null": [ ]
+  },
+  "Toys, Hobbies": {
+    "Collectable Card Games & Accessories": [
+      "Individual Collectable Card Game Cards",
+      "Sealed Collectable Card Game Boxes",
+      "Sealed Collectable Card Game Packs",
+      "Collectable Card Game Supplies & Accessories"
+    ],
+    "Games": [
+      "Video Games",
+      "Game Miniatures",
+      "Board & Traditional Games",
+      "Card Games & Poker",
+      "Chess Equipment & Accessories",
+      "Electronic Games",
+      "View all in Games"
+    ],
+    "Action Figures & Accessories": [
+      "Action Figures"
+    ],
+    "Diecast Vehicles": [
+      "Diecast Cars, Trucks and Vans",
+      "Diecast Racing Cars",
+      "Diecast Aircraft and Spacecraft",
+      "Diecast Vehicle Accessories, Parts & Display"
+    ],
+    "Building Toys": [
+      "LEGO Building Toys",
+      "Building Toys & Blocks"
+    ],
+    "Dolls & Teddy Bears": [
+      "Dolls, Clothing & Accessories",
+      "Teddy Bears, Clothing & Accessories",
+      "Doll's Houses & Doll's House Miniatures"
+    ],
+    "RC Model Vehicles, Toys & Control Line": [
+      "RC Model Vehicles & Kits",
+      "RC Model Vehicle Parts & Accessories"
+    ],
+    "Model Trains": [
+      "Model Railways & Trains"
+    ],
+    "Outdoor Toys": [
+      "Other Outdoor Toys",
+      "Floats & Rafts",
+      "Outdoor Play Tents",
+      "Outdoor Play Trampolines",
+      "Outdoor Jumping Castles",
+      "Cubby Houses",
+      "View all in Outdoor Toys"
+    ],
+    "Stuffed Animals": [ ],
+    "Ride-On Toys": [ ],
+    "Puzzles": [ ],
+    "Toy Models & Kits": [
+      "Aircraft Models & Kits",
+      "Automotive Models & Kits"
+    ],
+    "null": [ ]
+  },
+  "Sporting Goods": {
+    "Cycling Equipment": [
+      "Bikes",
+      "Bike Components & Parts",
+      "Bicycle Accessories",
+      "Electric Bikes",
+      "Bicycle Tyres, Tubes & Wheels",
+      "Cycling Clothing",
+      "View all in Cycling Equipment"
+    ],
+    "Sports Trading Cards & Accessories": [
+      "Sports Trading Card Singles",
+      "Sports Trading Card Storage & Display Supplies"
+    ],
+    "Golf Equipment & Gear": [
+      "Golf Clubs & Equipment",
+      "Golf Clothing, Shoes & Accessories",
+      "Golf Accessories",
+      "Golf Club Components",
+      "Golf Training Aids",
+      "Golf Tech",
+      "View all in Golf Equipment & Gear"
+    ],
+    "Camping & Hiking": [
+      "Camping Lights, Lanterns, & Torches",
+      "Camping Tents & Canopies",
+      "Camping Cooking Supplies",
+      "Camping & Hiking Tools",
+      "Outdoor Sleeping Equipment",
+      "Camping & Hiking Backpacks & Bags",
+      "View all in Camping & Hiking"
+    ],
+    "Fitness, Running & Yoga Equipment": [
+      "Strength Training Equipment",
+      "Fitness Equipment & Gear",
+      "Cardio Equipment",
+      "Fitness Technology",
+      "Exercise Clothing & Accessories",
+      "Yoga & Pilates",
+      "View all in Fitness, Running & Yoga Equipment"
+    ],
+    "Fishing Equipment & Supplies": [
+      "Fishing Equipment",
+      "Fishing Reels",
+      "Fishing Baits, Lures & Flies",
+      "Fishing Clothing, Shoes & Accessories",
+      "Fishing Rods & Poles",
+      "Vintage Fishing",
+      "View all in Fishing Equipment & Supplies"
+    ],
+    "Hunting Equipment": [
+      "Hunting Knives & Tools",
+      "Other Hunting Equipment",
+      "Hunting Holsters, Belts & Pouches",
+      "Hunting Clothing, Shoes & Accessories",
+      "Scopes, Optics & Lasers"
+    ],
+    "AFL, Rugby League & Union Gear": [
+      "AFL, Rugby League & Union Memorabilia",
+      "AFL, Rugby League & Union Merchandise",
+      "AFL, Rugby League & Union Clothing"
+    ],
+    "Soccer Equipment": [
+      "Soccer Clothing & Boots",
+      "Soccer Memorabilia",
+      "Soccer Merchandise",
+      "Soccer Goals"
+    ],
+    "Cricket Equipment": [
+      "Cricket Memorabilia",
+      "Cricket Bats"
+    ],
+    "Snow Sports Equipment": [
+      "Skiing & Snowboarding Clothing",
+      "Skiing, Snowboarding & Snowshoeing Equipment"
+    ],
+    "Boxing & Martial Arts Equipment": [
+      "Boxing & Martial Arts Training Equipment & Supplies",
+      "Boxing & Martial Arts Clothing, Shoes & Accessories",
+      "Boxing Gloves"
+    ],
+    "Boating & Water Sports Equipment & Gear": [
+      "Canoes, Kayaks & Personal Watercrafts",
+      "Boating & Water Sports Equipment"
+    ],
+    "Basketball Equipment": [
+      "Basketball Clothing & Footwear",
+      "Basketball Memorabilia"
+    ],
+    "Surfing Equipment": [
+      "Surfing Boards",
+      "Surf Clothing",
+      "Surfing Accessories"
+    ],
+    "Archery Equipment": [
+      "Archery Bows",
+      "Archery Arrows & Parts",
+      "Archery Accessories"
+    ],
+    "Horse Riding Equipment": [
+      "English Saddles & Tack",
+      "Horse Wear"
+    ],
+    "Bowls (Lawn)": [
+      "Lawn Bowls"
+    ],
+    "null": [ ]
+  },
+  "Health & Beauty": {
+    "Hair Care & Styling Products": [
+      "Hair Extensions & Wigs",
+      "Hair Styling Devices",
+      "Shampoos & Conditioners",
+      "Hair Colouring",
+      "Hair Brushes & Combs",
+      "Hair Loss Treatments",
+      "View all in Hair Care & Styling Products"
+    ],
+    "Makeup Products": [
+      "Eye Makeup",
+      "Makeup Tools & Accessories",
+      "Makeup Bags & Cases",
+      "Face Makeup",
+      "Lip Makeup",
+      "Makeup Sets & Kits",
+      "View all in Makeup Products"
+    ],
+    "Vitamins & Lifestyle Supplements": [
+      "Other Vitamins & Dietary Supplements",
+      "Sports Supplements",
+      "Vitamins & Minerals Health Supplements",
+      "Weight Management Supplements",
+      "Dietary Supplements"
+    ],
+    "Mobility & Disability Equipment": [
+      "Orthopedic Products & Supports",
+      "Mobility/Walking Equipment",
+      "Mobility Furniture & Fixtures",
+      "Daily Living Aids"
+    ],
+    "Fragrances": [
+      "Fragrances for Women",
+      "Fragrances for Men",
+      "Unisex Fragrances"
+    ],
+    "Nail Care, Manicure & Pedicure Supplies": [
+      "Nail Art Products",
+      "Nail Polish & Powders",
+      "Nail Care Tools"
+    ],
+    "Skin Care Products": [
+      "Anti-Aging Products",
+      "Skin Care Moisturisers",
+      "Skin Brightening Creams",
+      "Acne & Blemish Control",
+      "Skin Care Sets & Kits"
+    ],
+    "Health Care Products": [
+      "Over-the-Counter Medications & Treatments",
+      "Pill Boxes & Cases",
+      "Monitoring & Testing",
+      "First Aid Products",
+      "Foot Creams & Treatments",
+      "Sleeping Aids",
+      "View all in Health Care Products"
+    ],
+    "Natural & Alternative Remedies": [
+      "Aromatherapy Supplies",
+      "Herbal Remedies & Resins",
+      "Magnetic Therapy",
+      "Other Natural & Alternative Remedies",
+      "Light Therapy"
+    ],
+    "Shaving & Hair Removal Products": [
+      "Electric Shaver Parts",
+      "Razors & Razor Blades",
+      "Waxing Supplies for Hair Removal"
+    ],
+    "Massaging Equipment & Supplies": [
+      "Body Massagers",
+      "Electric Massage Chairs",
+      "Massage Tables & Chairs"
+    ],
+    "Vision Care": [
+      "Reading Glasses",
+      "Glasses Cases & Storage",
+      "Glasses Frames"
+    ],
+    "Dental & Oral Care Products": [
+      "Electric Oral & Dental Care",
+      "Teeth Whitening Supplies",
+      "Dental Floss & Flossers"
+    ],
+    "Bath & Body Products": [
+      "Antiperspirants & Deodorants",
+      "Bath Brushes & Sponges",
+      "Body Bar Soaps",
+      "Body Washes & Shower Gels"
+    ],
+    "Tattoos & Body Art Supplies": [
+      "Other Tattoos & Body Art Supplies",
+      "Temporary Tattoos",
+      "Tattoo Machines",
+      "Complete Tattoo Kits"
+    ],
+    "null": [ ]
+  },
+  "Jewellery & Watches": {
+    "Watches, Parts & Accessories": [
+      "Watches",
+      "Watch Accessories",
+      "Watch Parts, Tools & Guides"
+    ],
+    "Fashion Jewellery": [
+      "Fashion Necklaces & Pendants",
+      "Fashion Earrings",
+      "Fashion Bracelets & Charms",
+      "Fashion Rings",
+      "Fashion Brooches & Pins",
+      "Fashion Jewellery Sets",
+      "View all in Fashion Jewellery"
+    ],
+    "Fine Jewellery": [
+      "Fine Rings",
+      "Fine Necklaces & Pendants",
+      "Fine Bracelets & Charms",
+      "Fine Earrings"
+    ],
+    "Jewellery Care, Design & Repair": [
+      "Jewellery Boxes, Organisers & Packaging",
+      "Jewellery Tools & Workbenches",
+      "Jewellery Cleaners & Polish",
+      "Jewellery Findings"
+    ],
+    "Vintage & Antique Jewellery": [
+      "Vintage & Antique Necklaces & Pendants",
+      "Vintage & Antique Collections & Lots",
+      "Vintage & Antique Cameos",
+      "Other Vintage & Antique Jewellery",
+      "Vintage & Antique Jewellery Sets",
+      "Vintage & Antique Findings & Stampings",
+      "View all in Vintage & Antique Jewellery"
+    ],
+    "Men's Jewellery": [
+      "Men's Rings",
+      "Men's Necklaces & Pendants",
+      "Men's Bracelets & Charms"
+    ],
+    "Loose Diamonds & Gemstones": [
+      "Loose Gemstones"
+    ],
+    "Body Jewellery": [ ],
+    "null": [ ]
+  },
+  "Baby Essentials": {
+    "Prams, Strollers & Accessories": [
+      "Prams & Strollers",
+      "Pram & Stroller Accessories",
+      "Pram & Stroller Parts"
+    ],
+    "Baby": [
+      "Baby & Toddler Clothing",
+      "Baby Shoes",
+      "Baby Accessories"
+    ],
+    "Children's Furniture & Home Supplies": [
+      "Children's Furniture",
+      "Children's Home Décor & Organisation"
+    ],
+    "Baby Feeding Supplies": [
+      "Baby High Chairs",
+      "Breastfeeding & Nursing Supplies",
+      "Baby Bottle Feeding",
+      "Baby Cups, Dishes & Utensils"
+    ],
+    "Baby Furniture": [
+      "Baby Cots & Cribs",
+      "Changing Tables"
+    ],
+    "null": [ ]
+  },
+  "Collectables & Art": {
+    "Collectables": [
+      "Tobacciana",
+      "Military Collectables",
+      "Collectable Knives, Swords, Blades, Armours & Accessories",
+      "Collectable Rocks, Fossils & Minerals",
+      "Collectable Advertising",
+      "Decorative Collectables",
+      "View all in Collectables"
+    ],
+    "Coins, Notes & Bullion": [
+      "Coins",
+      "Banknotes",
+      "Bullion",
+      "Coin & Note Supplies"
+    ],
+    "Antiques": [
+      "Antique Furniture",
+      "Silver Antiques",
+      "Asian Antiques",
+      "Maritime Antiques",
+      "Ethnographic Antiques",
+      "Antique Maps, Atlases & Globes",
+      "View all in Antiques"
+    ],
+    "Pottery & Glass": [
+      "Decorative Pottery & Glassware",
+      "Decorative Cookware, Dinnerware & Serveware"
+    ],
+    "Art": [
+      "Art Paintings",
+      "Art Prints"
+    ],
+    "Vintage & Antique Jewellery": [
+      "Vintage & Antique Necklaces & Pendants",
+      "Vintage & Antique Collections & Lots",
+      "Vintage & Antique Cameos",
+      "Other Vintage & Antique Jewellery",
+      "Vintage & Antique Jewellery Sets",
+      "Vintage & Antique Findings & Stampings",
+      "View all in Vintage & Antique Jewellery"
+    ],
+    "Stamps": [
+      "Australian Stamps",
+      "European Stamps",
+      "Worldwide Stamps"
+    ],
+    "null": [ ]
+  },
+  "Electronics": {
+    "Phones, Smart Watches & Accessories": [
+      "Mobile Phone Accessories",
+      "Mobile Phones",
+      "Portable Audio & Headphones",
+      "Smart Watches",
+      "Mobile Phone Parts",
+      "Smart Watch Accessories",
+      "View all in Phones, Smart Watches & Accessories"
+    ],
+    "Computers, Tablets & Network Hardware": [
+      "Computer Components & Parts",
+      "Laptops & Netbooks",
+      "Tablet & eReader Accessories",
+      "Laptop & Desktop Accessories",
+      "Tablets & eReaders",
+      "Computer Drives, Storage & Blank Media",
+      "View all in Computers, Tablets & Network Hardware"
+    ],
+    "Video Games & Consoles": [
+      "Video Games",
+      "Video Game Consoles",
+      "Video Game Accessories",
+      "Coin-Operated Video Games & Consoles",
+      "Video Game Merchandise",
+      "Video Game Replacement Parts & Tools",
+      "View all in Video Games & Consoles"
+    ],
+    "Electronics": [
+      "Home Audio Systems",
+      "Portable Audio & Headphones",
+      "Batteries & Chargers",
+      "Smart Home & Surveillance Electronics",
+      "Radio Equipment",
+      "Vintage Electronics",
+      "View all in Electronics"
+    ],
+    "Home Entertainment": [
+      "Music",
+      "Movies & TV",
+      "DVD, Blu-Ray & Home Cinema Equipment",
+      "Television Accessories",
+      "TV Reception & Set-Top Boxes",
+      "VCRs",
+      "View all in Home Entertainment"
+    ],
+    "Home Appliances": [
+      "Small Kitchen Appliances",
+      "Home Heating, Cooling & Air",
+      "Vacuum Cleaner Parts",
+      "Vacuum Cleaners",
+      "Ranges & Cooking Appliances",
+      "Coffee, Tea & Espresso Makers",
+      "View all in Home Appliances"
+    ],
+    "Cameras": [
+      "Digital Cameras",
+      "Film Photography",
+      "Camera Lenses & Filters",
+      "Camera, Drone & Photo Accessories",
+      "Video Cameras",
+      "Vintage Cameras, Movie & Photography Equipment",
+      "View all in Cameras"
+    ],
+    "Portable Audio & Headphones": [
+      "MP3 Player Headphones & Earbuds",
+      "MP3 Players",
+      "MP3 Player Audio Docks & Mini Speakers",
+      "Portable Audio Accessories",
+      "Portable AM/FM Radios",
+      "Personal Cassette Players",
+      "View all in Portable Audio & Headphones"
+    ],
+    "Smart Home & Surveillance Electronics": [
+      "Home Surveillance Systems",
+      "Smart Speakers, Hubs & Accessories"
+    ],
+    "TVs": [ ],
+    "null": [ ]
+  },
+  "Business & Industrial": {
+    "Industrial Supplies": [
+      "CNC, Metalworking & Manufacturing",
+      "Industrial Electrical Equipment & Supplies",
+      "Material Handling",
+      "Other Electronic Components",
+      "Heavy Machinery, Parts & Attachments",
+      "Healthcare, Lab & Dental",
+      "View all in Industrial Supplies"
+    ],
+    "Business Supplies": [
+      "Restaurant & Food Service",
+      "Business Stationery",
+      "Printing Equipment",
+      "Office Equipment",
+      "Business Shop Equipment",
+      "Office Furniture",
+      "View all in Business Supplies"
+    ],
+    "null": [ ]
+  },
+  "Motors": {
+    "Vehicle Parts & Accessories": [
+      "Car & Truck Parts & Accessories",
+      "Vehicle Electronics & GPS",
+      "Motorcycle & Scooter Parts & Accessories",
+      "Auto Performance Parts",
+      "Automotive Tools & Supplies",
+      "Boat Parts & Accessories",
+      "View all in Vehicle Parts & Accessories"
+    ],
+    "Cars, Bikes, Boats": [
+      "Cars",
+      "Motorcycles",
+      "Caravans & Motorhomes",
+      "Car, Bike & Boat Trailers",
+      "Boats",
+      "Golf Carts",
+      "View all in Cars, Bikes, Boats"
+    ],
+    "null": [ ]
+  },
+  "Books, Music & Movies": {
+    "Musical Instruments": [
+      "Guitars & Basses",
+      "Pro Audio Equipment",
+      "Pianos, Keyboards & Organs",
+      "Percussion Instruments & Drums",
+      "String Instruments",
+      "Wind & Woodwind Instruments",
+      "View all in Musical Instruments"
+    ],
+    "Books, Comics & Magazines": [
+      "Tablets & eReaders",
+      "Fiction & Non-Fiction Books",
+      "Comic Books, Manga & Memorabilia",
+      "Magazines",
+      "Antiquarian & Collectable Books",
+      "Textbooks, Educational & Reference Books",
+      "View all in Books, Comics & Magazines"
+    ],
+    "Music": [
+      "Vinyl Records",
+      "Music CDs",
+      "Music Memorabilia",
+      "Music Cassettes"
+    ],
+    "Movies & TV": [
+      "DVD & Blu-ray Movies",
+      "VHS Movies",
+      "Movie Memorabilia"
+    ],
+    "null": [ ]
+  },
+  "Others": {
+    "Tickets, Travel": [
+      "Travel Accessories",
+      "Travel Luggage",
+      "Travel Tickets"
+    ],
+    "null": [ ]
+  },
+  "Food & Grocery": {
+    "Pet Supplies": [
+      "Dog Supplies",
+      "Fish Supplies",
+      "Cat Supplies",
+      "Bird Supplies",
+      "Small Animal Supplies",
+      "Reptile Supplies",
+      "View all in Pet Supplies"
+    ],
+    "Cleaning & Housekeeping": [
+      "Home Organisation & Storage Solutions",
+      "Household Laundry Supplies",
+      "General Household Supplies",
+      "Household Cleaning Tools",
+      "Household Cleaning Products"
+    ],
+    "Party & Special Occasion Supplies": [
+      "Party Supplies",
+      "Seasonal Decoration",
+      "Gift Wrapping & Supplies",
+      "Greeting Cards & Invitations"
+    ],
+    "Food & Drinks": [
+      "Pantry Items",
+      "Non-Alcoholic Drinks",
+      "Alcoholic Drinks & Mixers"
+    ],
+    "Wedding Supplies": [
+      "Wedding Venue Decorations",
+      "Wedding Cake Toppers",
+      "Wedding Favours",
+      "Wedding Invitations & Place Cards",
+      "Wedding Flowers, Petals & Garlands",
+      "Wedding Cake Stands & Plates",
+      "View all in Wedding Supplies"
+    ],
+    "null": [ ]
+  }
+}

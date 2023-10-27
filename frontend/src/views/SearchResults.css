@@ -1,0 +1,20 @@
+.SearchResults {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 3%;
+}
+
+#breadcrumb {
+    margin-bottom: 2%;
+}
+
+
+.SearchResults tr:hover,
+thead:hover {
+    background: #eeeeee !important;
+    transition: 0.1s;
+}
+
+.ant-table-tbody > tr.ant-table-row:hover > td {
+    background: none !important;
+}
